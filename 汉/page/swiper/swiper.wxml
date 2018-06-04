@@ -1,0 +1,58 @@
+<view>
+  <swiper indicator-dots='{{true}}' autoplay="{{true}}" interval='2000' duration='500' current='0' circular="{{true}}" vertical="{{false}}" style='height:500rpx'>
+    <swiper-item>
+      <image class='img' src='/image/1.jpg' mode='widthFix'></image>
+    </swiper-item>
+    <swiper-item>
+      <image class='img' src='/image/2.jpg' mode='widthFix'></image>
+    </swiper-item>
+    <swiper-item>
+      <image class='img' src='/image/3.jpg' mode='widthFix'></image>
+    </swiper-item>
+  </swiper>
+
+
+
+<!--横向滚动隐藏--头部--
+
+  <scroll-view scroll-x="{{true}}" style="height:300rpx;white-space:nowrap">
+    <view class="scroll_item_x">
+      <navigator url='../one/one' open-type='navigate'>
+        <image class="img" src='/image/4.jpg' mode='widthFix'></image>
+      </navigator>
+    </view>
+    <view class="scroll_item_x">
+      <navigator url='../two/two' open-type='navigate'>
+        <image class="img" src='/image/7.jpg' mode='widthFix'></image>
+      </navigator>
+    </view>
+  </scroll-view>
+
+--尾部-->
+
+<view class='.padding_jianjie'>▋简介</view>
+
+<view class='flex_wrap' style='flex-direction:row'>
+      <navigator url='../one/one' open-type='navigate'>
+        <image class="flex_item" src='/image/5.1.jpg' mode='widthFix'></image>
+      </navigator>
+
+      <navigator url='../two/two' open-type='navigate'>
+        <image class="flex_item" src='/image/4.1.jpg' mode='widthFix'></image>
+      </navigator>
+</view>
+
+<view class='flex_wrap' style='flex-direction:row'>
+      <navigator url='../three/three' open-type='navigate'>
+        <image class="flex_item" src='/image/7.1.jpg' mode='widthFix'></image>
+      </navigator>
+
+      <navigator url='../four/four' open-type='navigate'>
+        <image class="flex_item" src='/image/21.1.png' mode='widthFix'></image>
+      </navigator>
+</view>
+
+
+    
+ <!--原模板--<text class='bc'>注：图片及文章来源于百度，侵删。</text>-->
+</view>

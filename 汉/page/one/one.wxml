@@ -1,0 +1,13 @@
+<view class="text" style='font-size:60rpx'>发饰：</view>
+<view class='text'>
+  <text decode="{{true}}" space="{{true}}">&nbsp;&nbsp;&nbsp;&nbsp;
+发髻上插饰：金、银、珠玉、玛瑙、珊瑚等名贵材料。
+
+发髻的类别：大挖耳子簪、小挖耳子簪、珠花簪、压鬓簪、凤头簪、龙头簪等。簪子的种类从清朝往后200年的发髻材料渐渐被南珠（合浦之珠）所取代。
+
+发饰：包括发簪、发钗、发夹、发套、发带等。发簪和发钗是我国古代妇女的重要发饰。现代妇女通常使用发针、发夹、发带、网扣等。各种各样的发饰，只要佩戴得体，都会增添光彩。</text>
+
+  <image class='img' src='/image/14.jpg' mode='widthFix'></image>
+  <text decode="{{true}}" space="{{true}}">&nbsp;&nbsp;&nbsp;&nbsp;</text>
+  <!--原模板--<text class='bc'>\n注：图片及文章来源于百度，侵删。</text>-->
+</view>

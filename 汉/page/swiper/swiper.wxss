@@ -1,0 +1,38 @@
+.scroll_item{
+  height: 400rpx;
+}
+
+.scroll_item_x{
+  width: 400rpx;
+  display: inline-block;
+}
+
+.scroll_y{
+  height: 400rpx;
+}
+
+.padding_jianjie{
+  margin-top: 40rpx;
+  color: #551A8B;
+  
+}
+
+.bc{
+  font-size: 24rpx;
+}
+
+
+.img{
+    width: 100%;
+    }
+
+.flex_wrap{
+  display: flex;
+}
+.flex_item{
+  display: flex;
+  width: 372rpx;
+  height: 450rpx;
+  margin: 1rpx;
+  border-radius: 10px;
+}
