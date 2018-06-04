@@ -1,0 +1,18 @@
+page{
+  background-color:#CD8500;
+    }
+
+.img{
+    width: 100%;
+    }
+
+.bc{
+  font-size: 24rpx;
+}
+.text{
+  margin: 20rpx;
+}
+
+.cc{
+    border-bottom-style:dashed; 
+}

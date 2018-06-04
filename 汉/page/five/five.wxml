@@ -1,0 +1,40 @@
+<view class="text" style='font-size:60rpx'>发簪：</view>
+<view class='text'>
+ <view class='cc'>
+  <text decode="{{true}}" space="{{true}}">
+1.金属发簪
+以金、银、铜一类材料为主的发簪。
+除了金、银、铜一体造型的簪子外，一般多见的是镀色金属花片为主要材料进行随意组合的一类发簪，优势在于材料便宜易上手，造型更便于多变；弊端在于容易氧化（铜色除外）。
+
+</text>
+  <image class='img' src='/image/222.jpg' mode='widthFix'></image>
+  </view>
+
+
+<view class='cc'>
+  <text decode="{{true}}" space="{{true}}">
+2.料器发簪
+料器以一种熔点较低的玻璃为原料制作，其中参杂有少量在琉璃中出现的氧化铅，【琉璃，亦作“瑠璃”，是指用各种颜色的人造水晶（含24%的二氧化铅）为原料，采用古代青铜脱蜡铸造法高温脱蜡而成的水晶作品】，这里说一下误区，虽然料器也称为琉璃或古法琉璃（古法琉璃，亦称脱蜡琉璃），但是严格分类的话，料器是玻璃，而琉璃是人造水晶的一种。
+
+</text>
+<image class='img' src='/image/223.png' mode='widthFix'></image>
+</view>
+
+<view class='cc'>
+ <text decode="{{true}}" space="{{true}}">
+3.玉簪
+玉簪，玉制的簪子，又名玉搔头。古时一种头饰用品，最早出现在西周早期，是西周玉器装饰品中品种最为齐全、数量最多的一类。玉簪一般为圆锥状，由簪首和簪柄两部分组成，古代男女使用它来整理头发并使冠固于发上。
+
+</text>
+<image class='img' src='/image/224.png' mode='widthFix'></image>
+</view>
+
+
+ <text decode="{{true}}" space="{{true}}">
+4.亚克力发簪
+亚克力，又叫PMMA或亚加力。化学名称为聚甲基丙烯酸甲酯。有机玻璃产品通常可以分为浇注板、挤出板和模塑料。所以，亚克力是塑料，同时也是有机玻璃。
+
+</text>
+<image class='img' src='/image/225.png' mode='widthFix'></image>
+  <!--原模板--<text class='bc'>\n注：图片及文章来源于百度，侵删。</text>-->
+</view>

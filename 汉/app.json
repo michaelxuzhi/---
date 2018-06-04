@@ -1,0 +1,48 @@
+{
+  "pages": [
+    "page/swiper/swiper",
+    "page/scroll/scroll",
+    "page/five/five",
+    "page/one/one",
+    "page/two/two",
+    "page/three/three",
+    "page/four/four"
+  ],
+  "window": {
+    "navigationBarBackgroundColor": "#CD8500",
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "汉-饰品",
+    "backgroundColor": "#EDEDED",
+    "backgroundTextStyle": "dark",
+    "enablePullDownRefresh": true
+  },
+
+  "tabBar": {
+    "color": "#dddddd",
+    "selectedColor": "#1C86EE",
+    "borderStyle": "white",
+     "backgroundColor": "#ffffff",
+    "list": [{
+      "pagePath": "page/swiper/swiper",
+      "text": "首页",
+      "iconPath": "image/11.png",
+      "selectedIconPath": "image/10.png"
+    },{
+        "pagePath": "page/scroll/scroll",
+        "text": "成就",
+        "iconPath": "image/chenn.png",
+        "selectedIconPath": "image/chen.png"
+    },{
+      "pagePath": "page/five/five",
+      "text": "发簪",
+      "iconPath": "image/30.png",
+      "selectedIconPath": "image/31.png"
+    }]
+  },
+  "networkTimeout": {
+    "request": 10000,
+    "downloadFile": 10000
+  },
+  "debug": true
+  
+}
